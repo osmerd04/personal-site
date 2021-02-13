@@ -78,6 +78,9 @@ img[alt="Profile"]{
     width: 50%;
     margin: auto;
 }
+.copyright{
+    color: black;
+}
 .skill-row{
     margin: 100px auto 100px auto;
     text-align: left;
